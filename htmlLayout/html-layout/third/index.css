@@ -1,0 +1,44 @@
+body, html {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+   
+  }
+   .row {
+    height: 14%;
+    width: 100%;
+  }
+   .row-large {
+    height: 30%;
+    width: 100%;
+  }
+  .row-1 {
+    background-color: rgb(97, 89, 89);
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  .row-1-div {
+    width: 60px;
+    height: 60px;
+    background-color: #4A90E2;
+  }
+  .row-2 {
+    background-color: rgb(206, 207, 211);
+    box-sizing: border-box;
+    padding: 60px;
+  }
+  .row-3 {
+   
+    background-color: rgb(6, 61, 124);
+    
+  }
+  .row-4 {
+    background-color: #50E3C2;
+  }
+  .row-5 {
+    background-color: #B8E986;
+  }
+  .row-6 {
+    background-color: #F8E71C;
+  }
+
